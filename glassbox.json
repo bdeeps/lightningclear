@@ -1,0 +1,106 @@
+{
+  "slug": "lightningclear",
+  "box": 234,
+  "date": "2026-12-01",
+  "title": "LightningClear",
+  "question": "How do lightning and thunder work?",
+  "hook": "A bolt is hotter than the Sun's surface, and what you see runs upward, not down. Watch a storm charge, a leader find the ground, and thunder race the light.",
+  "thumbText": "HOW LIGHTNING WORKS",
+  "field": "physics",
+  "minutes": 14,
+  "tags": [
+    "lightning",
+    "thunder",
+    "storms",
+    "physics",
+    "electricity",
+    "weather"
+  ],
+  "explainer": [
+    {
+      "title": "A cloud sorts itself into charges",
+      "text": "In a strong updraft, light ice crystals rise and heavy graupel hovers or falls. Their collisions swap charge. The usual picture has positive charge on top, negative in the middle and a small positive pocket below. Scientists still research the details."
+    },
+    {
+      "title": "A faint leader finds the ground",
+      "text": "A branching stepped leader creeps down from the cloud in steps of tens of metres. Near the ground, streamers rise from tall and pointed things to meet it. The first connection wins."
+    },
+    {
+      "title": "The bright flash runs upward",
+      "text": "When the path is complete, a return stroke races up the channel at roughly a third of light speed with tens of thousands of amps. A flash often has several strokes, which is why it flickers."
+    },
+    {
+      "title": "Thunder is a shock wave",
+      "text": "The channel heats to about 30,000 K in microseconds. The air expands faster than sound, and the shock fades into thunder. It rumbles because sound from a long, crooked channel arrives at different times."
+    },
+    {
+      "title": "Count to find the distance",
+      "text": "Light is instant. Sound takes about 3 seconds per kilometre, or 5 seconds per mile. If the gap is 30 seconds or less, go indoors, and wait 30 minutes after the last thunder."
+    },
+    {
+      "title": "A rod makes the strike safe",
+      "text": "A rod does not pull lightning from afar. It gives a strike a safe path to the ground. Above storms, sprites, jets and gamma flashes show how far a storm's electricity reaches, and the Earth flashes about 44 times a second."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Updraft",
+      "def": "Air rising inside a storm, often tens of metres per second in strong ones."
+    },
+    {
+      "term": "Graupel",
+      "def": "Soft, rimed ice pellets that collide with ice crystals and swap charge."
+    },
+    {
+      "term": "Tripole",
+      "def": "The common picture of a thundercloud: positive top, negative middle, small positive base."
+    },
+    {
+      "term": "Stepped leader",
+      "def": "The faint, branching channel that creeps down from a cloud in steps and finds the ground."
+    },
+    {
+      "term": "Streamer",
+      "def": "A short discharge that grows from a pointed object toward an approaching leader."
+    },
+    {
+      "term": "Return stroke",
+      "def": "The bright current pulse that runs up the finished channel. It is the flash you see."
+    },
+    {
+      "term": "Dart leader",
+      "def": "A smooth, fast leader that runs down an old channel before a later stroke."
+    },
+    {
+      "term": "Shock wave",
+      "def": "A pressure jump faster than sound, made by the sudden heating of the channel. It fades into thunder."
+    },
+    {
+      "term": "Rolling sphere",
+      "def": "An engineering method: roll a ball the size of the striking distance over a structure to find where lightning can strike."
+    },
+    {
+      "term": "Sprite",
+      "def": "A red glow high above a big thundercloud, roughly 50 to 90 km up."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "lightningclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

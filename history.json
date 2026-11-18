@@ -1,0 +1,921 @@
+{
+  "title": "The history of lightning and thunder",
+  "tagline": "From a thunder god's weapon to satellites that watch every flash.",
+  "intro": "People first said lightning was a god's weapon. In ancient Greece and China, some began to look for natural causes. In 1752 a French rod and Franklin's kite showed it was electricity. Then cameras, radio and satellites showed how a stroke grows, how thunder forms, and how storms reach space. Some details are still argued over, and this history says so where it matters.",
+  "eras": [
+    {
+      "id": "ancient",
+      "name": "Gods, breath and fire",
+      "from": -1200,
+      "to": 100,
+      "color": "#c49bff",
+      "summary": "Poets name a storm god. Greek and Chinese thinkers say lightning has natural causes."
+    },
+    {
+      "id": "spark",
+      "name": "Sparks from the sky",
+      "from": 1749,
+      "to": 1775,
+      "color": "#ffb547",
+      "summary": "Rods and kites show that lightning is electricity. Early lightning scientists risk their lives."
+    },
+    {
+      "id": "storm",
+      "name": "Inside the storm",
+      "from": 1900,
+      "to": 1956,
+      "color": "#ff7a59",
+      "summary": "Cameras split a stroke into steps. Scientists ask how a cloud charges and whether it can be calmed."
+    },
+    {
+      "id": "upper",
+      "name": "Above the clouds",
+      "from": 1989,
+      "to": 2011,
+      "color": "#5ce1a9",
+      "summary": "Cameras and satellites find red sprites, gamma-ray flashes and beams of antimatter."
+    },
+    {
+      "id": "count",
+      "name": "Counting every flash",
+      "from": 1925,
+      "to": 2022,
+      "color": "#8ef0ff",
+      "summary": "Radio networks and satellites count flashes, find hotspots and set new records."
+    }
+  ],
+  "events": [
+    {
+      "year": -1200,
+      "date": "Vedic age (dates debated)",
+      "era": "ancient",
+      "art": "bolt",
+      "title": "Indra, lord of thunder",
+      "who": "Vedic poets",
+      "where": "India",
+      "country": "India",
+      "text": "In the Rigveda, Indra is the god of storms, thunder and lightning. He carries the vajra, a thunderbolt, and kills the serpent Vritra to free the rain.",
+      "why": "People first explained lightning as a god's weapon.",
+      "sources": [
+        10
+      ]
+    },
+    {
+      "year": -350,
+      "date": "4th century BCE",
+      "era": "ancient",
+      "art": "scroll",
+      "key": true,
+      "title": "Aristotle blames a dry exhalation",
+      "who": "Aristotle",
+      "where": "Greece",
+      "country": "Greece",
+      "text": "In his Meteorology, Aristotle says a dry exhalation is squeezed out of cooling clouds and crashes into other clouds. That crash is thunder. When it catches fire as it escapes, it is lightning. We see the flash first because sight is quicker than hearing.",
+      "why": "It was an early natural explanation, and it already knew that light beats sound.",
+      "box": "thunder",
+      "sources": [
+        7,
+        34
+      ]
+    },
+    {
+      "year": 80,
+      "date": "c. 70–80 CE",
+      "era": "ancient",
+      "art": "scroll",
+      "key": true,
+      "title": "Wang Chong says Heaven is not angry",
+      "who": "Wang Chong",
+      "where": "Shangyu, Kuaiji, China",
+      "country": "China",
+      "text": "In his Lunheng, the Han thinker Wang Chong argues that thunder and lightning are not Heaven's anger. Heaven, he says, acts without intent and has no hands to strike anyone. He also mocks the belief that lightning marks wrongdoers.",
+      "why": "He asked people to test lightning stories against experience, not fear.",
+      "sources": [
+        8,
+        9
+      ]
+    },
+    {
+      "year": 1749,
+      "date": "1749–1750",
+      "era": "spark",
+      "art": "building",
+      "title": "Franklin imagines the lightning rod",
+      "who": "Benjamin Franklin",
+      "where": "Philadelphia, USA",
+      "country": "USA",
+      "text": "Franklin began to think about protecting buildings from lightning around 1750 and described a pointed iron rod. One source dates the idea to 1749. He suggested a sharp rod might draw off electricity before a strike.",
+      "why": "It turned a physics idea into a way to save buildings.",
+      "box": "strike",
+      "sources": [
+        13,
+        3
+      ]
+    },
+    {
+      "year": 1752,
+      "date": "10 May 1752",
+      "era": "spark",
+      "art": "bolt",
+      "key": true,
+      "title": "Sparks from a storm cloud in France",
+      "who": "Thomas-François Dalibard and Delor",
+      "where": "Marly-la-Ville, France",
+      "country": "France",
+      "text": "Following Dalibard's instructions, a retired dragoon drew sparks from a 13 m insulated iron rod during a storm. Delor repeated the result in Paris. Dalibard reported it to the Académie des Sciences on 13 May.",
+      "why": "It was the first time anyone tested Franklin's idea, and it showed that thunderclouds are electrified.",
+      "box": "charge",
+      "sources": [
+        5,
+        11,
+        4
+      ]
+    },
+    {
+      "year": 1752,
+      "date": "June 1752; Gazette report 19 October 1752",
+      "era": "spark",
+      "art": "string",
+      "key": true,
+      "title": "Franklin's kite",
+      "who": "Benjamin Franklin",
+      "where": "Philadelphia, USA",
+      "country": "USA",
+      "text": "Franklin flew a kite in a storm and drew sparks from a key on the wet string. His own account came out in the Pennsylvania Gazette on 19 October 1752 and gave instructions for repeating it. The June date comes from Joseph Priestley's later telling, so details are uncertain.",
+      "why": "It made the idea that lightning is electricity widely known.",
+      "box": "charge",
+      "sources": [
+        4,
+        3,
+        5
+      ]
+    },
+    {
+      "year": 1753,
+      "date": "1753",
+      "era": "spark",
+      "art": "trophy",
+      "title": "Franklin wins the Copley Medal",
+      "who": "Royal Society",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "The Royal Society gave Franklin its Copley Medal in 1753 for his experiments on electricity. Its members had earlier declined to print his lightning-conductor letter in the Philosophical Transactions.",
+      "why": "It shows how fast the new idea won respect.",
+      "sources": [
+        4,
+        5
+      ]
+    },
+    {
+      "year": 1753,
+      "date": "6 August 1753",
+      "era": "spark",
+      "art": "person",
+      "key": true,
+      "title": "Richmann is killed by lightning",
+      "who": "Georg Wilhelm Richmann",
+      "where": "St Petersburg, Russia",
+      "country": "Russia",
+      "text": "Richmann was measuring how an insulated rod reacted to a nearby storm. A discharge, reported to be ball lightning, struck him and he died. The French physicist Nollet used the death to argue against lightning rods.",
+      "why": "It was a stark warning that studying lightning is dangerous.",
+      "box": "strike",
+      "sources": [
+        5,
+        12,
+        6
+      ]
+    },
+    {
+      "year": 1753,
+      "date": "1753",
+      "era": "spark",
+      "art": "scroll",
+      "title": "Lomonosov's theory of storm electricity",
+      "who": "Mikhail Lomonosov",
+      "where": "St Petersburg, Russia",
+      "country": "Russia",
+      "text": "Lomonosov had worked with Richmann since late 1744. After Richmann died, he wrote a discourse on air phenomena caused by electrical force. He proposed that friction between rising warm air and sinking cool air charges tiny particles.",
+      "why": "It linked lightning to moving air inside the storm.",
+      "box": "charge",
+      "sources": [
+        6,
+        35
+      ]
+    },
+    {
+      "year": 1754,
+      "date": "15 June 1754",
+      "era": "spark",
+      "art": "building",
+      "key": true,
+      "title": "The first grounded rod in Moravia",
+      "who": "Prokop Diviš",
+      "where": "Přímětice, Moravia",
+      "country": "Czechia",
+      "text": "Diviš, a priest, set up an iron frame of points on a tall wooden mast and grounded it with four iron chains. It is widely seen as the first rod that truly protected against lightning. Whether it was an independent invention is debated. Villagers destroyed it in 1760.",
+      "why": "Grounding is what actually keeps a strike from damaging a building.",
+      "box": "strike",
+      "sources": [
+        14,
+        13
+      ]
+    },
+    {
+      "year": 1775,
+      "date": "later 1700s",
+      "era": "spark",
+      "art": "scales",
+      "title": "Blunt or pointed?",
+      "who": "British and American scientists",
+      "where": "Britain and North America",
+      "country": "United Kingdom",
+      "text": "During the conflict between Britain and its American colonies, British scientists favoured rods with a ball on the end. American scientists favoured points. A study in 2000 found moderately blunt rods are marginally better receptors.",
+      "why": "It shows even a simple rod has a design question.",
+      "box": "strike",
+      "sources": [
+        13,
+        3
+      ]
+    },
+    {
+      "year": 1900,
+      "date": "mid-1800s to the 20th century",
+      "era": "storm",
+      "art": "soundwave",
+      "title": "Thunder becomes a shock wave",
+      "who": "Many researchers",
+      "where": "Worldwide",
+      "country": "International",
+      "text": "By the mid-1800s the accepted view was that lightning left a vacuum and thunder was its collapse. Since the 20th century, scientists agree that the channel heats the air so fast it expands as a shock wave. NOAA says it is a shock wave only for the first 10 yards, then ordinary sound.",
+      "why": "It explains why thunder rolls and why it is not the same as a bang.",
+      "box": "thunder",
+      "sources": [
+        34,
+        2,
+        0
+      ]
+    },
+    {
+      "year": 1925,
+      "date": "1925",
+      "era": "storm",
+      "art": "chip",
+      "title": "Wilson asks how electrons run away",
+      "who": "C. T. R. Wilson",
+      "where": "Cambridge, England",
+      "country": "United Kingdom",
+      "text": "In a 1925 paper, Wilson worked out how electrons can gain very large energy in a strong electric field such as a thundercloud's. Arthur Eddington later gave this the name runaway electrons.",
+      "why": "It predicted high-energy radiation from storms decades before it was seen.",
+      "box": "high",
+      "sources": [
+        16,
+        15
+      ]
+    },
+    {
+      "year": 1925,
+      "date": "1925",
+      "era": "count",
+      "art": "earth",
+      "title": "First estimate of global lightning",
+      "who": "H. Brooks",
+      "where": "Worldwide",
+      "country": "International",
+      "text": "The first estimate of the global flash rate was 100 flashes per second. It was made in 1925 from the number of flashes per storm and storm counts at weather stations. Space-based counts later gave a mean of about 46 a second.",
+      "why": "It started the long effort to count every flash on Earth.",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 1927,
+      "date": "1927",
+      "era": "storm",
+      "art": "flask",
+      "title": "Wilson's Nobel Prize",
+      "who": "C. T. R. Wilson",
+      "where": "Cambridge, England",
+      "country": "United Kingdom",
+      "text": "Wilson shared the 1927 Nobel Prize in Physics for the cloud chamber, which makes the paths of charged particles visible. His main interest was weather, and his work on thunderstorm electricity ran through his career. His last paper was about thunderclouds.",
+      "why": "The inventor of a famous lab tool was a storm scientist at heart.",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 1935,
+      "date": "1930s (study reported 1935)",
+      "era": "storm",
+      "art": "film",
+      "key": true,
+      "title": "Schonland films the stepped leader",
+      "who": "Basil Schonland",
+      "where": "Johannesburg, South Africa",
+      "country": "South Africa",
+      "text": "Schonland's team used Boys cameras with moving film. They split a stroke into stepped leader, return stroke and dart leader, and coined those terms. Step lengths of 10 to 200 m and an average speed of 3.8 × 10^5 m/s were reported.",
+      "why": "It showed that lightning starts as a series of invisible-to-the-eye steps.",
+      "box": "leader",
+      "sources": [
+        17,
+        18
+      ]
+    },
+    {
+      "year": 1954,
+      "date": "1954",
+      "era": "storm",
+      "art": "flask",
+      "title": "Vonnegut's convection theory",
+      "who": "Bernard Vonnegut",
+      "where": "Albany, USA",
+      "country": "USA",
+      "text": "In 1954 Vonnegut proposed that strong up and down air currents are mainly what electrify a cloud. In 1946 he had also found that silver iodide can seed clouds. NOAA now says charge separation starts when soft hail called graupel collides with smaller ice crystals.",
+      "why": "It put the storm's own winds at the centre of charging.",
+      "box": "charge",
+      "sources": [
+        20,
+        1
+      ]
+    },
+    {
+      "year": 1956,
+      "date": "1956 field season",
+      "era": "storm",
+      "art": "plane",
+      "title": "Project Skyfire tries to calm lightning",
+      "who": "US researchers",
+      "where": "Montana and Arizona, USA",
+      "country": "USA",
+      "text": "In 1956 Project Skyfire flew an airborne silver iodide generator on a Cessna 180 for about 60 hours. It also used ground generators near Flagstaff and Missoula. The aim was to cut lightning that starts forest fires.",
+      "why": "It was an early test of whether people could change a storm's charging.",
+      "box": "charge",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 1989,
+      "date": "6 July 1989",
+      "era": "upper",
+      "art": "night",
+      "key": true,
+      "title": "Sprites are caught on camera",
+      "who": "Robert Franz, Robert Nemzek and John Winckler",
+      "where": "Minnesota, USA",
+      "country": "USA",
+      "text": "University of Minnesota researchers were testing a low-light camera for a rocket experiment. It caught two flashes above a distant storm. Their 1990 Science paper reported a large upward discharge. Sources agree on 6 July, though one lists 4 July.",
+      "why": "It proved that storms can flash up into space.",
+      "box": "high",
+      "sources": [
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "year": 1990,
+      "date": "November 1990",
+      "era": "count",
+      "art": "wind",
+      "title": "Winter lightning on Japan's coast",
+      "who": "T. Tamura",
+      "where": "Hokuriku, Japan",
+      "country": "Japan",
+      "text": "A Hokuriku Electric Power engineer described winter lightning along the Sea of Japan. It comes from warm sea air meeting cold Siberian winds, has long discharges and mostly strikes within about 35 km of the coast.",
+      "why": "Power companies in Japan had to design for a different kind of lightning.",
+      "box": "strike",
+      "sources": [
+        33
+      ]
+    },
+    {
+      "year": 1994,
+      "date": "1994",
+      "era": "upper",
+      "art": "xray",
+      "title": "Gamma rays from thunderstorms",
+      "who": "BATSE team",
+      "where": "Earth orbit",
+      "country": "USA",
+      "text": "NASA's BATSE instrument first detected terrestrial gamma-ray flashes in 1994. It was built to study gamma-ray bursts from space. The flashes last about 0.2 to 3.5 milliseconds.",
+      "why": "It was the first sign that lightning makes radiation.",
+      "box": "high",
+      "sources": [
+        25
+      ]
+    },
+    {
+      "year": 1995,
+      "date": "1995",
+      "era": "count",
+      "art": "chip",
+      "title": "A lightning camera in orbit",
+      "who": "NASA",
+      "where": "Earth orbit",
+      "country": "USA",
+      "text": "NASA launched the Optical Transient Detector in 1995. It was a prototype of the Lightning Imaging Sensor and flew as a hosted payload on a small satellite.",
+      "why": "It began a satellite record that now spans decades.",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 1997,
+      "date": "November 1997",
+      "era": "count",
+      "art": "telescope",
+      "title": "The Lightning Imaging Sensor",
+      "who": "NASA",
+      "where": "Earth orbit",
+      "country": "USA",
+      "text": "The Lightning Imaging Sensor launched on the TRMM satellite in November 1997. It orbited at 350 km and watched a storm for about 90 seconds. The mission ended data collection on 8 April 2015.",
+      "why": "It gave 17 years of total lightning data.",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 2004,
+      "date": "archive begins 15 August 2004",
+      "era": "count",
+      "art": "soundwave",
+      "title": "A world network of radio listeners",
+      "who": "University of Washington",
+      "where": "Seattle, USA",
+      "country": "USA",
+      "text": "WWLLN uses more than 70 very low frequency radio sensors around the world. They hear radio pulses from strokes and locate each one from arrival times at five or more sensors. Its archive begins on 15 August 2004.",
+      "why": "It lets scientists place strokes far out at sea.",
+      "sources": [
+        31
+      ]
+    },
+    {
+      "year": 2008,
+      "date": "from 2008",
+      "era": "upper",
+      "art": "mountain",
+      "title": "Studying storm radiation on a mountain",
+      "who": "Yerevan Physics Institute",
+      "where": "Aragats, Armenia",
+      "country": "Armenia",
+      "text": "In 2008 the cosmic ray division of the Yerevan Physics Institute began studying high-energy atmospheric physics on Mount Aragats. The station has recorded more than 500 bursts of particles since then.",
+      "why": "It brought ground-based watching of storm radiation.",
+      "box": "high",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 2011,
+      "date": "announced 10 January 2011",
+      "era": "upper",
+      "art": "rocket",
+      "key": true,
+      "title": "Thunderstorms fire antimatter",
+      "who": "Fermi team",
+      "where": "Earth orbit",
+      "country": "USA",
+      "text": "NASA's Fermi satellite saw gamma rays at 511,000 electron volts, a sign of electrons meeting positrons. On 14 December 2009 a beam from a storm in Zambia reached Fermi over Egypt. Fermi had found 130 flashes by the end of 2010.",
+      "why": "It was the first direct evidence that storms make antimatter beams.",
+      "box": "high",
+      "sources": [
+        26,
+        25
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "17 December 2014",
+      "era": "count",
+      "art": "scroll",
+      "title": "China reviews its lightning research",
+      "who": "Xiushu Qie and colleagues",
+      "where": "Beijing, China",
+      "country": "China",
+      "text": "A review in Advances in Atmospheric Sciences describes ground-based field work on rocket-triggered lightning and thunderstorm electricity on the Tibetan Plateau. It says active research in China has run since the 1980s.",
+      "why": "It collects work from a country with very different terrain.",
+      "box": "charge",
+      "sources": [
+        32
+      ]
+    },
+    {
+      "year": 2016,
+      "date": "hotspot study published 2016",
+      "era": "count",
+      "art": "earth",
+      "title": "The world's lightning capital",
+      "who": "Rachel Albrecht and colleagues",
+      "where": "Lake Maracaibo, Venezuela",
+      "country": "Venezuela",
+      "text": "Sixteen years of satellite data showed that the top hotspot is over Lake Maracaibo, with 233 flashes per square kilometre a year. The Congo basin was second with 205.",
+      "why": "It overturned the idea that Africa is always first.",
+      "box": "high",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 2016,
+      "date": "launched November 2016",
+      "era": "count",
+      "art": "telescope",
+      "key": true,
+      "title": "A lightning mapper in geostationary orbit",
+      "who": "NOAA and NASA",
+      "where": "Geostationary orbit",
+      "country": "USA",
+      "text": "GOES-16 carries the Geostationary Lightning Mapper. It sees all kinds of lightning day and night with about 10 km resolution and 20 second timing. It began operating in March 2017.",
+      "why": "It lets forecasters watch lightning continuously.",
+      "box": "high",
+      "sources": [
+        27,
+        28,
+        19
+      ]
+    },
+    {
+      "year": 2020,
+      "date": "announced June 2020",
+      "era": "count",
+      "art": "bolt",
+      "key": true,
+      "title": "Megaflash records",
+      "who": "World Meteorological Organization",
+      "where": "Brazil and Argentina",
+      "country": "Brazil",
+      "text": "A flash on 31 October 2018 stretched 709 km across Brazil. One on 4 March 2019 lasted 16.73 seconds over Argentina. These more than doubled the previous records of 321 km (Oklahoma, 2007) and about 8 s (France, 2012). Satellites verified them.",
+      "why": "Lightning can be far bigger than ground networks saw.",
+      "box": "high",
+      "sources": [
+        29,
+        30
+      ]
+    },
+    {
+      "year": 2022,
+      "date": "1 February 2022",
+      "era": "count",
+      "art": "bolt",
+      "title": "Records stretched again",
+      "who": "World Meteorological Organization",
+      "where": "USA, Uruguay and Argentina",
+      "country": "USA",
+      "text": "The WMO listed a new distance record of 768 km across the southern United States on 29 April 2020. A flash on 18 June 2020 lasted 17.102 seconds over Uruguay and northern Argentina. Both were measured by GOES satellites.",
+      "why": "The records keep rising as sensors improve.",
+      "box": "high",
+      "sources": [
+        29
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "First test of Franklin's sentry-box idea",
+      "value": "10 May 1752",
+      "who": "Dalibard and Delor, France"
+    },
+    {
+      "label": "First widely credited grounded lightning rod",
+      "value": "15 June 1754",
+      "who": "Prokop Diviš, Přímětice (Moravia)"
+    },
+    {
+      "label": "First global lightning-rate estimate",
+      "value": "100 flashes a second, 1925",
+      "who": "H. Brooks, from weather-station counts"
+    },
+    {
+      "label": "First video of a sprite",
+      "value": "6 July 1989",
+      "who": "University of Minnesota team, USA"
+    },
+    {
+      "label": "Longest recorded flash",
+      "value": "768 km, 29 April 2020",
+      "who": "Southern USA, certified by the WMO"
+    }
+  ],
+  "people": [
+    {
+      "name": "Wang Chong",
+      "life": "c. 27 – c. 100 CE",
+      "role": "Han philosopher",
+      "from": "China",
+      "note": "Argued that thunder is not Heaven's anger."
+    },
+    {
+      "name": "Aristotle",
+      "life": "",
+      "role": "Philosopher",
+      "from": "Greece",
+      "note": "Explained thunder and lightning as a dry exhalation in clouds."
+    },
+    {
+      "name": "Thomas-François Dalibard",
+      "life": "1709 – 1778",
+      "role": "Naturalist",
+      "from": "France",
+      "note": "Had the first test of Franklin's idea done at Marly-la-Ville."
+    },
+    {
+      "name": "Benjamin Franklin",
+      "life": "",
+      "role": "Printer and scientist",
+      "from": "USA",
+      "note": "Proposed the lightning rod and published the kite experiment."
+    },
+    {
+      "name": "Georg Wilhelm Richmann",
+      "life": "1711 – 1753",
+      "role": "Physicist",
+      "from": "Russia (born in Livonia)",
+      "note": "Died while measuring electricity from a storm."
+    },
+    {
+      "name": "Mikhail Lomonosov",
+      "life": "1711 – 1765",
+      "role": "Scientist",
+      "from": "Russia",
+      "note": "Wrote an early theory of how air movement charges a storm."
+    },
+    {
+      "name": "Prokop Diviš",
+      "life": "1698 – 1765",
+      "role": "Priest and experimenter",
+      "from": "Moravia",
+      "note": "Built a grounded lightning conductor in 1754."
+    },
+    {
+      "name": "C. T. R. Wilson",
+      "life": "1869 – 1959",
+      "role": "Physicist and meteorologist",
+      "from": "Scotland",
+      "note": "Nobel Prize for the cloud chamber; studied thunderstorm electricity all his life."
+    },
+    {
+      "name": "Basil Schonland",
+      "life": "1896 – 1972",
+      "role": "Physicist",
+      "from": "South Africa",
+      "note": "Used Boys cameras to split a stroke into its stages."
+    },
+    {
+      "name": "Bernard Vonnegut",
+      "life": "1914 – 1997",
+      "role": "Atmospheric scientist",
+      "from": "USA",
+      "note": "Proposed the convection theory of cloud electrification in 1954."
+    },
+    {
+      "name": "Xiushu Qie",
+      "life": "",
+      "role": "Atmospheric electricity researcher",
+      "from": "China",
+      "note": "First-named author of a review of atmospheric electricity research in China."
+    },
+    {
+      "name": "Rachel Albrecht",
+      "life": "",
+      "role": "Atmospheric scientist, University of São Paulo",
+      "from": "Brazil",
+      "note": "Lead author of the study that located the world's top lightning hotspot."
+    }
+  ],
+  "series": [
+    {
+      "id": "rate",
+      "title": "Estimates of lightning flashes per second worldwide",
+      "unit": "flashes per second",
+      "log": false,
+      "after": "count",
+      "caption": "Early estimates were higher than counts from space.",
+      "points": [
+        {
+          "year": 1925,
+          "value": 100,
+          "label": "Brooks: first global estimate, from weather-station counts"
+        },
+        {
+          "year": 2013,
+          "value": 46,
+          "label": "Space-based mean from 16 years of Lightning Imaging Sensor data (published 2016)"
+        }
+      ]
+    },
+    {
+      "id": "dist",
+      "title": "Longest lightning flash recorded",
+      "unit": "km",
+      "log": false,
+      "after": "count",
+      "caption": "Satellite mapping stretched the records.",
+      "points": [
+        {
+          "year": 2007,
+          "value": 321,
+          "label": "Oklahoma, USA: previous WMO record"
+        },
+        {
+          "year": 2018,
+          "value": 709,
+          "label": "Southern Brazil, 31 October 2018"
+        },
+        {
+          "year": 2020,
+          "value": 768,
+          "label": "Southern USA, 29 April 2020"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Lightning heats the air in its channel to about 50,000 °F, around five times hotter than the Sun's surface.",
+    "Count the seconds from flash to thunder and divide by 5 to get miles.",
+    "The world's top lightning hotspot is over Lake Maracaibo, with 233 flashes per square kilometre a year.",
+    "A satellite measured a lightning flash 768 km long.",
+    "About 20 million cloud-to-ground flashes hit the contiguous US each year."
+  ],
+  "sources": [
+    {
+      "title": "Lightning Science: Thunder",
+      "publisher": "National Weather Service (NOAA)",
+      "url": "https://www.weather.gov/safety/lightning-science-thunder"
+    },
+    {
+      "title": "Severe Weather 101: Lightning Basics",
+      "publisher": "NOAA National Severe Storms Laboratory",
+      "url": "https://www.nssl.noaa.gov/education/svrwx101/lightning/"
+    },
+    {
+      "title": "Severe Weather 101: Lightning FAQ",
+      "publisher": "NOAA National Severe Storms Laboratory",
+      "url": "https://www.nssl.noaa.gov/education/svrwx101/lightning/faq/"
+    },
+    {
+      "title": "Franklin's Lightning Rod",
+      "publisher": "The Franklin Institute",
+      "url": "https://www.fi.edu/en/science-and-education/benjamin-franklin/lightning-rod"
+    },
+    {
+      "title": "Benjamin Franklin and the Kite Experiment",
+      "publisher": "The Franklin Institute",
+      "url": "https://fi.edu/en/science-and-education/benjamin-franklin/kite-key-experiment"
+    },
+    {
+      "title": "Benjamin Franklin and lightning rods",
+      "publisher": "Physics Today (AIP)",
+      "url": "https://physicstoday.aip.org/features/benjamin-franklin-and-lightning-rods"
+    },
+    {
+      "title": "Mikhail Lomonosov and the dawn of Russian science",
+      "publisher": "Physics Today (AIP)",
+      "url": "https://physicstoday.aip.org/features/mikhail-lomonosov-and-the-dawn-of-russian-science"
+    },
+    {
+      "title": "Meteorology, Book II (trans. E. W. Webster)",
+      "publisher": "MIT Internet Classics Archive",
+      "url": "http://classics.mit.edu/Aristotle/meteorology.2.ii.html"
+    },
+    {
+      "title": "Wang Chong (Wang Ch'ung)",
+      "publisher": "Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/wangchon/"
+    },
+    {
+      "title": "Wang Chong",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wang_Chong"
+    },
+    {
+      "title": "Indra",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Indra"
+    },
+    {
+      "title": "Thomas-François Dalibard",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thomas-Fran%C3%A7ois_Dalibard"
+    },
+    {
+      "title": "Georg Wilhelm Richmann",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Richmann"
+    },
+    {
+      "title": "Lightning rod",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lightning_rod"
+    },
+    {
+      "title": "Diviš, Prokop",
+      "publisher": "Encyclopedia.com (Complete Dictionary of Scientific Biography)",
+      "url": "https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/divis-prokop"
+    },
+    {
+      "title": "Charles Thomson Rees Wilson",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charles_Thomson_Rees_Wilson"
+    },
+    {
+      "title": "Understanding High-Energy Physics in Earth's Atmosphere",
+      "publisher": "Eos (American Geophysical Union)",
+      "url": "https://eos.org/science-updates/understanding-high-energy-physics-in-earths-atmosphere"
+    },
+    {
+      "title": "Schonland's other Legacy",
+      "publisher": "Military History Society of South Africa",
+      "url": "http://samilitaryhistory.org/diaries/schonland.html"
+    },
+    {
+      "title": "High-speed video observations of a lightning stepped leader (Hill, Uman and Jordan, J. Geophys. Res. 116, D16117, doi:10.1029/2011JD015818)",
+      "publisher": "American Geophysical Union",
+      "url": "https://www.sls-us.com/wp-content/uploads/2023/05/SLS_Hill_et_al_2011_Journal_of_Geophysical_Research_Solid_Earth_1978_2012.pdf"
+    },
+    {
+      "title": "Where are the lightning hotspots on Earth? (Albrecht et al., Bull. Am. Meteorol. Soc., doi:10.1175/BAMS-D-14-00193.1)",
+      "publisher": "American Meteorological Society (NOAA Library copy)",
+      "url": "https://repository.library.noaa.gov/view/noaa/52453/noaa_52453_DS1.pdf"
+    },
+    {
+      "title": "Atmospheric Scientist Bernard Vonnegut Dies at 82",
+      "publisher": "University at Albany, SUNY",
+      "url": "https://www.albany.edu/updates/1997/4-30/otherarticles.html"
+    },
+    {
+      "title": "Project Skyfire: Preventing Forest Fires with Cloud Seeding",
+      "publisher": "Weather Modification History",
+      "url": "https://weathermodificationhistory.com/project-skyfire-preventing-forest-fires-cloud-seeding/"
+    },
+    {
+      "title": "First image of a sprite",
+      "publisher": "Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/world-records/first-image-of-a-sprite"
+    },
+    {
+      "title": "In 1989, researchers testing a camera in Minnesota accidentally filmed red flashes above a storm",
+      "publisher": "Futura-Sciences",
+      "url": "https://www.futura-sciences.com/en/in-1989-researchers-testing-a-camera-in-minnesota-accidentally-filmed-red-flashes-above-a-storm-nobody-had-ever-recorded-them-before-g1_900996/"
+    },
+    {
+      "title": "Sprite (lightning)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sprite_(lightning)"
+    },
+    {
+      "title": "Terrestrial gamma-ray flash",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Terrestrial_gamma-ray_flash"
+    },
+    {
+      "title": "NASA's Fermi Catches Thunderstorms Hurling Antimatter into Space",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/missions/fermi/nasas-fermi-catches-thunderstorms-hurling-antimatter-into-space/"
+    },
+    {
+      "title": "Geostationary Lightning Mapper (GLM)",
+      "publisher": "NOAA NESDIS",
+      "url": "https://www.nesdis.noaa.gov/our-satellites/currently-flying/goes-east-west/geostationary-lightning-mapper-glm"
+    },
+    {
+      "title": "Geostationary Lightning Mapper",
+      "publisher": "NASA Earthdata",
+      "url": "https://www.earthdata.nasa.gov/data/instruments/glm"
+    },
+    {
+      "title": "WMO certifies two megaflash lightning records",
+      "publisher": "World Meteorological Organization",
+      "url": "https://wmo.int/media/news/wmo-certifies-two-megaflash-lightning-records"
+    },
+    {
+      "title": "Two lightning megaflashes shattered distance and duration records",
+      "publisher": "Science News",
+      "url": "https://www.sciencenews.org/article/two-lightning-flashes-shattered-distance-duration-records"
+    },
+    {
+      "title": "WWLLN: The World Wide Lightning Location Network",
+      "publisher": "University of Washington",
+      "url": "https://wwlln.net/"
+    },
+    {
+      "title": "A review of atmospheric electricity research in China (Qie et al., Adv. Atmos. Sci. 32, 2015)",
+      "publisher": "Springer / Chinese Academy of Sciences journal",
+      "url": "https://link.springer.com/article/10.1007/s00376-014-0003-z"
+    },
+    {
+      "title": "Winter lightning and prevention of lightning damages (T. Tamura, Hokuriku Electric Power Co., Energy (Tokyo) 23(12), 1990)",
+      "publisher": "OSTI (US Dept. of Energy)",
+      "url": "https://www.osti.gov/etdeweb/biblio/5867494"
+    },
+    {
+      "title": "Thunder",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thunder"
+    },
+    {
+      "title": "Discourse on Atmospheric Phenomena Originating from Electrical Force (Lomonosov, 1753; English translation by V. Shiltsev)",
+      "publisher": "arXiv",
+      "url": "https://arxiv.org/pdf/1709.08847"
+    }
+  ]
+}
